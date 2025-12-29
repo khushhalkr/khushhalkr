@@ -33,11 +33,7 @@ GitHub, VS Code, Postman
 ---
 
 ## 🚀 Projects
-- 🧠 **Fake Social Media Account Detection System**
-- 🌐 **AI Chatbot Integrated Portfolio Website**
-- 🏫 **School Management Website**
-- 🛒 **E-commerce Website**
-- 📝 **Blog Platform with Authentication**
+-
 
 👉 Check out my repositories to see these projects in detail.
 
