@@ -45,7 +45,7 @@ GitHub, VS Code, Postman
 
 ## 📫 Connect With Me
 - 📧 Email: khushhalsoni545@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 💼 LinkedIn: https://linkedin.com/in/khushhal-kumar-sah-7851b6296  
 - 🌐 Portfolio: https://  
 
 ---
